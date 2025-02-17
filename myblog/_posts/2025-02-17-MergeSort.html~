@@ -1,0 +1,30 @@
+---
+layout: post
+title: MergeSort
+---
+
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Algorithmen - MergeSort</title>
+</head>
+<body>
+
+    <h1>MergeSort</h1>
+    
+    <p>MergeSort ist ein Sortieralgorithmus, der in O(n log n) sortiert. Es ist vor allem als externes Sortierverfahren bekannt.</p>
+    
+    <img src="assets/beispielbild.jpg" alt="Beispielbild">
+    
+    <h2>Ungeordnete Liste:</h2>
+    <ul>
+        <li>Erster Punkt</li>
+        <li>Zweiter Punkt</li>
+        <li>Dritter Punkt</li>
+    </ul>
+
+</body>
+</html>
