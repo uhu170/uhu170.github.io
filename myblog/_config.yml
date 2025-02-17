@@ -29,9 +29,9 @@ baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://uhu170.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 =======
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://uhu170.github.io" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> Stashed changes:meinblog/_config.yml
+
 github_username:  Platzhalter
 
 # Build settings
