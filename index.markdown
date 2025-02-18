@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Hallo zu diesem Versuch"
 ---
+
+Hier sind Tiere: [VerschiedeneTiere](/Tiere/hundeseite.html)
